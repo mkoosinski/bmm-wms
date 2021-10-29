@@ -1,2 +1,2 @@
 # projekt_inzynierski
-Projekt inżynierski WSEI
+Projekt inżynierski P1 WSEI - Bartłomiej Kot, Maciej Dunal, Mateusz Kosiński
